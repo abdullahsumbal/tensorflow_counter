@@ -1,0 +1,6 @@
+# video file
+*.mp4
+
+# pycharm file
+.idea/*
+.idea
